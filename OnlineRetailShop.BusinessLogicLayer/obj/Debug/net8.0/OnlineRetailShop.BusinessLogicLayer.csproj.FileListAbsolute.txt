@@ -1,0 +1,15 @@
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\OnlineRetailShop.BusinessLogicLayer\bin\Debug\net8.0\OnlineRetailShop.BusinessLogicLayer.deps.json
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\OnlineRetailShop.BusinessLogicLayer\bin\Debug\net8.0\OnlineRetailShop.BusinessLogicLayer.dll
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\OnlineRetailShop.BusinessLogicLayer\bin\Debug\net8.0\OnlineRetailShop.BusinessLogicLayer.pdb
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\OnlineRetailShop.BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\OnlineRetailShop.BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\OnlineRetailShop.BusinessLogicLayer\obj\Debug\net8.0\OnlineRetailShop.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\OnlineRetailShop.BusinessLogicLayer\obj\Debug\net8.0\OnlineRetailShop.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\OnlineRetailShop.BusinessLogicLayer\obj\Debug\net8.0\OnlineRetailShop.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\OnlineRetailShop.BusinessLogicLayer\obj\Debug\net8.0\OnlineRetailShop.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\OnlineRetailShop.BusinessLogicLayer\obj\Debug\net8.0\OnlineRetailShop.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\OnlineRetailShop.BusinessLogicLayer\obj\Debug\net8.0\OnlineRe.6E04FC31.Up2Date
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\OnlineRetailShop.BusinessLogicLayer\obj\Debug\net8.0\OnlineRetailShop.BusinessLogicLayer.dll
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\OnlineRetailShop.BusinessLogicLayer\obj\Debug\net8.0\refint\OnlineRetailShop.BusinessLogicLayer.dll
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\OnlineRetailShop.BusinessLogicLayer\obj\Debug\net8.0\OnlineRetailShop.BusinessLogicLayer.pdb
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\OnlineRetailShop.BusinessLogicLayer\obj\Debug\net8.0\ref\OnlineRetailShop.BusinessLogicLayer.dll
