@@ -1,0 +1,12 @@
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
+C:\Users\VijayalakshmiA\source\repos\Project1\OnlineRetailShop\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
